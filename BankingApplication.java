@@ -5,7 +5,10 @@ import java.util.Scanner;
 // Finished.
 
 public class BankingApplication{
-	
+	public static void main(String[] args) {
+		BankAccount account1 = new BankAccount("Will", "8765");
+		account1.showMenu();
+	}
 }
 
 class BankAccount{
