@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 // Display Welcome message to the user
 // 5 functions: Check balance, deposit, withdraw, check previous, exit
-
+// Finished.
 
 public class BankingApplication{
 	
